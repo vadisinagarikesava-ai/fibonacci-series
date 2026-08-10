@@ -1,0 +1,11 @@
+Time = 0  | Fibonacci Number = 0
+Time = 15 | Fibonacci Number = 1
+Time = 25 | Fibonacci Number = 1
+Time = 35 | Fibonacci Number = 2
+Time = 45 | Fibonacci Number = 3
+Time = 55 | Fibonacci Number = 5
+Time = 65 | Fibonacci Number = 8
+Time = 75 | Fibonacci Number = 13
+Time = 85 | Fibonacci Number = 21
+Time = 95 | Fibonacci Number = 34
+Time = 105 | Fibonacci Number = 55
